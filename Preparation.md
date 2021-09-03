@@ -39,7 +39,7 @@
 - create k8s deployment file
 - create ansible file
 
-## Progress
+## Process
 
 - Code Developing
 - Push Image

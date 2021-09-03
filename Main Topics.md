@@ -26,7 +26,9 @@ Internetwork allows different users at different geographical locations of an or
 
 [Basic Networking](https://www.omnisecu.com/basic-networking/internet-intranet-and-extranet.php)
   
-[Difference Between Inter, Intra, Exter](https://www.geeksforgeeks.org/difference-between-internet-intranet-and-extraneNetwork architecture refers to the way network devices and services are structured to serve the connectivity needs of client devices.
+[Difference Between Inter, Intra, Exter](https://www.geeksforgeeks.org/difference-between-internet-intranet-and-extraneNetwork)
+
+## Network architecture refers to the way network devices and services are structured to serve the connectivity needs of client devices.
 
 - Network devices typically include switches and routers.
 - Types of services include DHCP and DNS.
@@ -51,7 +53,7 @@ Internetwork allows different users at different geographical locations of an or
 - Spine and Leaf
   
 
-[Traditional Network Architecture Links](https://www.networkcomputing.com/data-centers/campus-network-design-models)
+[Campus Network Design Links](https://www.networkcomputing.com/data-centers/campus-network-design-models)
 
 [Spine Leaf Architecture](https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/white-paper-c11-737022.html#Spineandleafarchitecture)
 
@@ -240,6 +242,8 @@ Internetwork allows different users at different geographical locations of an or
 ### Other Resources
 
 [The Book of Secret Knowledge - github](https://github.com/trimstray/the-book-of-secret-knowledge)
+
+[Devops Exercises](https://github.com/bregman-arie/devops-exercises)
 
 [Open Source Devops Tools](https://devops.com/11-open-source-devops-tools-we-love-for-2021/)
 
