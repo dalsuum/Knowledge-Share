@@ -26,9 +26,7 @@ Internetwork allows different users at different geographical locations of an or
 
 [Basic Networking](https://www.omnisecu.com/basic-networking/internet-intranet-and-extranet.php)
   
-[Difference Between Inter, Intra, Exter](https://www.geeksforgeeks.org/difference-between-internet-intranet-and-extranet/)
-
-**Network architecture refers to the way network devices and services are structured to serve the connectivity needs of client devices.**
+[Difference Between Inter, Intra, Exter](https://www.geeksforgeeks.org/difference-between-internet-intranet-and-extraneNetwork architecture refers to the way network devices and services are structured to serve the connectivity needs of client devices.
 
 - Network devices typically include switches and routers.
 - Types of services include DHCP and DNS.
@@ -123,51 +121,53 @@ Internetwork allows different users at different geographical locations of an or
 
 **E-Books for Data Center**
 
-1 Data Center Physical Infrastructure Optimizing Business Value
+[1 Data Center Physical Infrastructure Optimizing Business Value](./pdf/1%20Data%20Center%20Physical%20Infrastructure%20Optimizing%20Business%20Value.pdf)
 
-2 Virtualization Virtualization 
+[2 Virtualization Virtualization ](./pdf/2%20Virtualization%20Virtualization%20.pdf)
 
-3 Creating Order from Chaos in Data 
+[3 Creating Order from Chaos in Data ](./pdf/3%20Creating%20Order%20from%20Chaos%20in%20Data%20.pdf)
 
-4 Guidelines for Specification of Data 
+[4 Guidelines for Specification of Data ](./pdf/4%20Guidelines%20for%20Specification%20of%20Data%20.pdf)
 
-5 Data Center Projects Standard Process
+[5 Data Center Projects Standard Process](./pdf/5%20Data%20Center%20Projects%20Standard%20Process.pdf)
 
-6 Data Center Projects Project Management
+[6 Data Center Projects Project Management](./pdf/6%20Data%20Center%20Projects%20Project%20Management.pdf)
 
-7 Data Center Projects System Planning
+[7 Data Center Projects System Planning](./pdf/7%20Data%20Center%20Projects%20System%20Planning.pdf)
 
-8 Data Center Projects Growth Model
+[8 Data Center Projects Growth Model](./pdf/8%20Data%20Center%20Projects%20Growth%20Model.pdf)
 
-9 Data Center Projects Establishing a Floor Plan
+[9 Data Center Projects Establishing a Floor Plan](./pdf/8%20Data%20Center%20Projects%20Growth%20Model.pdf)
 
-10 The Different Types of UPS Systems
+[10 The Different Types of UPS Systems](./pdf/10%20The%20Different%20Types%20of%20UPS%20Systems.pdf)
 
-11 Calculating Total Power  Requirement for Data Centers
+[11 Calculating Total Power  Requirement for Data Centers](./pdf/11%20Calculating%20Total%20Power%20%20Requirement%20for%20Data%20Centers.pdf)
 
-12 Watts and Volt-Amps  Powerful 
+[12 Watts and Volt-Amps  Powerful ](./pdf/12%20Watts%20and%20Volt-Amps%20%20Powerful%20.pdf)
 
-13 The Seven Types of Power Problems
+[13 The Seven Types of Power Problems](./pdf/13%20The%20Seven%20Types%20of%20Power%20Problems.pdf)
 
-14 A Quantitative Comparison of  High Efficiency AC vs. DC Power  Distribution for Data Centers 
+[14 A Quantitative Comparison of  High Efficiency AC vs. DC Power  Distribution for Data Centers ](./pdf/14%20A%20Quantitative%20Comparison%20of%20%20High%20Efficiency%20AC%20vs.%20DC%20Power%20%20Distribution%20for%20Data%20Centers%20.pdf)
 
-15 How and Why Mission-critical  Cooling Systems Differ from  Common Air Conditioners 
+[15 How and Why Mission-critical  Cooling Systems Differ from  Common Air Conditioners ](./pdf/15%20How%20and%20Why%20Mission-critical%20%20Cooling%20Systems%20Differ%20from%20%20Common%20Air%20Conditioners%20.pdf)
 
-16 The Different Types of AirDistribution for IT Environments 
+[16 The Different Types of AirDistribution for IT Environments ](./pdf/16%20The%20Different%20Types%20of%20AirDistribution%20for%20IT%20Environments%20.pdf)
 
-17 Fundamental Principles of  Air Conditioners for  Information Technology 
+[17 Fundamental Principles of  Air Conditioners for  Information Technology ](./pdf/17%20Fundamental%20Principles%20of%20%20Air%20Conditioners%20for%20%20Information%20Technology%20.pdf)
 
-18 The Different Technologies for  Cooling Data Centers 
+[18 The Different Technologies for  Cooling Data Centers ](./pdf/18%20The%20Different%20Technologies%20for%20%20Cooling%20Data%20Centers%20.pdf)
 
-19 Choosing Between Room, Row, and Rack-based Cooling for Data Centers
+[19 Choosing Between Room, Row, and Rack-based Cooling for Data Centers](./pdf/19%20Choosing%20Between%20Room,%20Row,%20and%20Rack-based%20Cooling%20for%20Data%20Centers.pdf)
 
-20 High-Efficiency AC Power  Distribution for Data Centers 
+[20 High-Efficiency AC Power  Distribution for Data Centers ](./pdf/20%20High-Efficiency%20AC%20Power%20%20Distribution%20for%20Data%20Centers%20.pdf)
 
 # Security
 ### Security Framework
 [NIST Cyber Security Framework](https://www.ifsecglobal.com/cyber-security/a-guide-to-the-nist-cyber-security-framework/)
 
 [CIS](https://www.cisecurity.org/)
+
+[PCI Security Standards](https://www.nist.gov/system/files/documents/2017/06/05/040813_pci_security_standards_council.pdf)
 
 ### Other Resources
 
@@ -179,16 +179,16 @@ Internetwork allows different users at different geographical locations of an or
 
 
 ## High Avaiability
-![HA](./AV/1.jpg)
+![HA](./AV/1.JPG)
 
 ## Disaster Recovery
-![HA](./AV/2.jpg)
+![HA](./AV/2.JPG)
 
 ## Calculating Avaiability with Hard Dependencies 
-![HA](./AV/3.jpg)
+![HA](./AV/3.JPG)
 
 ## Calculating Avaiability with Redudant Component
-![HA](./AV/4.jpg)
+![HA](./AV/4.JPG)
 
 ## AWS Offer four levels of Disaster Recover
 ![HA](./AV/5.PNG)
