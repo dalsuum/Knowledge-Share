@@ -40,7 +40,7 @@ Internetwork allows different users at different geographical locations of an or
 
 ## TYPES OF NETWORK ARCHITECTURE
 - Peer to Peer
-- The Server Architecture
+- Client/Server Architecture
   
 *All network types have unique architectures*
 
