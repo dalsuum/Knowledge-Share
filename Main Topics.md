@@ -11,6 +11,23 @@
 
 [Types of Computer Network](https://www.guru99.com/types-of-computer-network.html)
 
+## TYPES OF NETWORK TOPOLOGY
+
+- BUS
+- RING
+- STAR
+- MESH
+- HYBRID
+
+[Network Topology](https://www.javatpoint.com/computer-network-topologies)
+
+## Transmission modes
+
+- Simplex mode
+- Half-duplex mode
+- Full-duplex mode
+
+
 ## Internetworking
 Before discussing about the terms internet, intranet and extranet, we need to discuss the term Internetwork.
 
@@ -28,7 +45,19 @@ Internetwork allows different users at different geographical locations of an or
   
 [Difference Between Inter, Intra, Exter](https://www.geeksforgeeks.org/difference-between-internet-intranet-and-extraneNetwork)
 
-## Network architecture refers to the way network devices and services are structured to serve the connectivity needs of client devices.
+# OSI Model
+
+1. Physical Layer
+2. Data-Link Layer
+3. Network Layer
+4. Transport Layer
+5. Session Layer
+6. Presentation Layer
+7. Application Layer
+
+## Network Architecture
+
+Network architecture refers to the way network devices and services are structured to serve the connectivity needs of client devices.
 
 - Network devices typically include switches and routers.
 - Types of services include DHCP and DNS.
