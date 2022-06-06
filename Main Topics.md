@@ -206,19 +206,19 @@ Network architecture refers to the way network devices and services are structur
 
 [Cisco NetworkSecurity](https://www.cisco.com/c/en/us/td/docs/solutions/Verticals/CPwE/5-1/Network_Security/WP/CPwE-5-1-NetworkSecurity-WP.pdf)
 
-# High Avaiability 
+# High Availability 
 
 
-## High Avaiability
+## High Availability
 ![HA](./AV/1.JPG)
 
 ## Disaster Recovery
 ![HA](./AV/2.JPG)
 
-## Calculating Avaiability with Hard Dependencies 
+## Calculating Availability with Hard Dependencies 
 ![HA](./AV/3.JPG)
 
-## Calculating Avaiability with Redudant Component
+## Calculating Availability with Redudant Component
 ![HA](./AV/4.JPG)
 
 ## AWS Offer four levels of Disaster Recover
