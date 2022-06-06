@@ -306,7 +306,7 @@ Network architecture refers to the way network devices and services are structur
 
 [treehouse](https://teamtreehouse.com/)
 
-# IT Porject Management
+# IT Project Management
 
 - ITIL
 - Waterfall
